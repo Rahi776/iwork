@@ -1,0 +1,15 @@
+/home/rehmat/Documents/iwork /bin/Debug/net6.0/iwork
+/home/rehmat/Documents/iwork /bin/Debug/net6.0/iwork.deps.json
+/home/rehmat/Documents/iwork /bin/Debug/net6.0/iwork.runtimeconfig.json
+/home/rehmat/Documents/iwork /bin/Debug/net6.0/iwork.dll
+/home/rehmat/Documents/iwork /bin/Debug/net6.0/ref/iwork.dll
+/home/rehmat/Documents/iwork /bin/Debug/net6.0/iwork.pdb
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.csproj.AssemblyReference.cache
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.AssemblyInfoInputs.cache
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.AssemblyInfo.cs
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.csproj.CoreCompileInputs.cache
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.dll
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/ref/iwork.dll
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.pdb
+/home/rehmat/Documents/iwork /obj/Debug/net6.0/iwork.genruntimeconfig.cache
